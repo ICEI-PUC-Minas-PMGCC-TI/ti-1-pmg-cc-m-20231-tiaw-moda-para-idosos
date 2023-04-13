@@ -16,4 +16,4 @@ A moda é um dos setores de maior movimentação de capital no mundo, mas quase 
 ## Instruções de utilização
 
 Assim que a primeira versão do sistema estiver disponível, deverá complementar com as instruções de utilização. Descreva como instalar eventuais dependências e como executar a aplicação.
-boa noite.
+
