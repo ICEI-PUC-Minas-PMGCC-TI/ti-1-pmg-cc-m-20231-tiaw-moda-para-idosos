@@ -53,7 +53,7 @@
 
 ## Problema
 
-......  COLOQUE AQUI O SEU TEXTO ......
+A moda é um dos setores de maior movimentação de capital no mundo, mas quase inteiramente focada no público jovem, com uma grande exclusão da terceira idade nesse meio. Segundo o SPC Brasil (Serviço de Proteção ao Cliente), das 36 milhões de pessoas acima de 60 anos na população brasileira, 34% sente falta dos produtos de moda quando vão às compras. Dessa forma, existe uma relação conflituosa entre os idosos e a atualização nas tendências atuais sobre moda, na qual eles não conseguem procurar ou encontrar roupas condizentes com seu estilo único, personalidade e orçamento, e acabam por se contentar com roupas determinadas padrões da terceira idade e logo têm a autoestima diminuída por não se sentirem representados pelo próprio estilo.
 
 > Nesse momento você deve apresentar o problema que a sua aplicação deve
 > resolver. No entanto, não é a hora de comentar sobre a aplicação.
