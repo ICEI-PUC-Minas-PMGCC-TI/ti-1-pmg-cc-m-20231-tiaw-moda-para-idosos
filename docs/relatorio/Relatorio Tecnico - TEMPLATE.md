@@ -163,10 +163,15 @@ A moda é um dos setores de maior movimentação de capital no mundo, mas quase 
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
 
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
-|--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+|EU COMO... | QUERO/PRECISO ... `FUNCIONALIDADE`                 |PARA ... `MOTIVO/VALOR`                                                                         |
+|-----------|----------------------------------------------------|------------------------------------------------------------------------------------------------|
+| Antonio   | Comprar roupas esportivas de forma facilitada      | Para conseguir assistir os jogos de futebol utilizando o uniforme dos times favoritos dos netos|
+| Esmeralda | Se atualizar nas tendências de moda                | Para se inserir na moda atual.                                                                 |
+| Viviane   | Necessito de roupas mais variadas                  | Para poder ter um visual para cada ocasião de sua vida.                                        |
+| Esmeralda | Preciso de ajuda na minha indecisão.               | Para diminuir o tempo que eu gasto para me arrumar.                                            |
+| Antonio   | Preciso de um menu de fácil entendimento           | Para eu poder navegar mais facilmente pelo site, sem precisar da ajuda dos meus netos.         |
+| Viviane   | Gostaria de um filtro para escolher a cor da roupa | O filtro seria importante para eu poder realizar meu sonho de ter uma roupa de cada cor.       |
+| Admin     | Poder de abrir chat com qualquer cliente           | Realizar um suporte individualizado                                                            |
 
 > Apresente aqui as histórias de usuário que são relevantes para o
 > projeto de sua solução. As Histórias de Usuário consistem em uma
