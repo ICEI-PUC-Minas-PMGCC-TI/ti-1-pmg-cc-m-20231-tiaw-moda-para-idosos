@@ -342,10 +342,10 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 ## Divisão de Papéis
 
-[Divisao de Papeis - Link](https://trello.com/b/h3I0xK2p/divis%C3%A3o-de-pap%C3%A9is-tiaw)
+[Divisao de Papeis - Link](https://trello.com/b/h3I0xK2p/divis%C3%A3o-de-pap%C3%A9is-tiaw)<br>
 ![Divisao de Papeis](images/divisao-de-papeis.png)
 
-[Kanban - Link](https://trello.com/b/bItzCrxk/kanban-template-tiaw)
+[Kanban - Link](https://trello.com/b/bItzCrxk/kanban-template-tiaw) <br>
 ![Kanban](images/kanban-template.png)
 
 > Apresente a divisão de papéis e tarefas entre os membros do grupo.
