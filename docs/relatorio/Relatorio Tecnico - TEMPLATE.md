@@ -114,7 +114,19 @@ Ainda assim, segundo dados da multinacional de painéis de consumo Kantar, famí
 
 ## Público-Alvo
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Geral:
+Homens e mulheres acima de 60 anos, casados, com filhos e netos e que são aposentados. Moradores tanto da capital quanto do interior, que desejam encontrar uma forma mais fácil de achar ideias de roupas para vestir e comprar de acordo com a moda atual e que, ao mesmo tempo, sejam adequadas para o tamanho e o estilo deles. 
+
+Específico por variáveis:
+ - Geográfica: Moram no Brasil, embora pessoas de todos os países consigam utilizar o site, e vivem na zona urbana.
+
+ - Demográfica: Indivíduos com mais de 60 anos (idosos), normalmente casados ou viúvos, com filhos, aposentados e de situação social média.
+
+ - Psicográfica: Possuem um estilo de vida mais calmo, com hábitos saudáveis e interesses em eventos sociais dentro da zona de conforto (encontros de família e de igreja, por exemplo) e em se sentir bem no geral, incluindo sua própria aparência.
+
+ - Comportamental: É um público que vem crescendo muito no meio digital, possui um comportamento facilmente influenciável pela mídia e tem grande potencial de crescer no nicho da moda e-commerce, já que a moda sênior também é emergente no cenário atual. No entanto, os idosos ainda têm grande dificuldade com a falta de acessibilidade e interfaces intuitivas construídas para eles na internet, o que deve ser um fator de mudança no projeto para encaixá-lo corretamente no perfil da terceira idade.
+
+
 
 > Descreva quem serão as pessoas que usarão a sua aplicação indicando os
 > diferentes perfis. O objetivo aqui não é definir quem serão os
