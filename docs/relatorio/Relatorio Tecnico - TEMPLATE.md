@@ -187,7 +187,7 @@ Específico por variáveis:
 
 ## Histórias de Usuários
 
-Com base na análise das personas forma identificadas as seguintes histórias de usuários:
+Com base na análise das personas foram identificadas as seguintes histórias de usuários:
 
 |EU COMO... | QUERO/PRECISO ... `FUNCIONALIDADE`                 |PARA ... `MOTIVO/VALOR`                                                                         |
 |-----------|----------------------------------------------------|------------------------------------------------------------------------------------------------|
@@ -300,7 +300,10 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 ## Wireframes
 
 ......  INCLUA AQUI OS WIREFRAMES DAS TELAS DA APLICAÇÃO COM UM BREVE DESCRITIVO ......
-(images/homepage.png)
+> ![Wireframe](images/homepage.png)
+> ![Wireframe](images/teste-qual-evento.png)
+> ![Wireframe](images/teste-qual-filtros.png)
+> ![Wireframe](images/teste-resultado.png)
 
 > Wireframes são protótipos das telas da aplicação usados em design de interface para sugerir a
 > estrutura de um site web e seu relacionamentos entre suas
@@ -315,8 +318,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 > 
 > **Exemplo**:
 > 
-> ![Exemplo de Wireframe](images/wireframe-example.png)
-
+>
 
 # Metodologia
 
