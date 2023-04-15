@@ -302,7 +302,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 ......  INCLUA AQUI OS WIREFRAMES DAS TELAS DA APLICAÇÃO COM UM BREVE DESCRITIVO ......
 > ![Wireframe](images/homepage.png)
 > ![Wireframe](images/teste-qual-evento.png)
-> ![Wireframe](images/teste-qual-filtros.png)
+> ![Wireframe](images/teste-filtros.png)
 > ![Wireframe](images/teste-resultado.png)
 
 > Wireframes são protótipos das telas da aplicação usados em design de interface para sugerir a
@@ -342,7 +342,11 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 ## Divisão de Papéis
 
-......  COLOQUE AQUI O SEU TEXTO ......
+[Divisao de Papeis - Link](https://trello.com/b/h3I0xK2p/divis%C3%A3o-de-pap%C3%A9is-tiaw)
+![Divisao de Papeis](images/divisao-de-papeis.png)
+
+[Kanban - Link](https://trello.com/b/bItzCrxk/kanban-template-tiaw)
+![Kanban](images/kanban-template.png)
 
 > Apresente a divisão de papéis e tarefas entre os membros do grupo.
 >
