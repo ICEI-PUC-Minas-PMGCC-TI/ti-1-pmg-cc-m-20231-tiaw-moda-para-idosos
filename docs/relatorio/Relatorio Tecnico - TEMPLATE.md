@@ -95,7 +95,9 @@ Objetivos específicos:
 
 ## Justificativa
 
-......  COLOQUE AQUI O SEU TEXTO ......
+A criação do Old Fashioned foi influenciada pela percepção da dificuldade que muitos de nossos avós têm com a moda, seja ao procurar roupas que gostem, seja por pensar em peças que sejam adequadas a eles em determinados eventos. Ao analisarmos o dia a dia e as pesquisas sobre nossa realidade, vimos a importância da criação de um projeto que ajude os idosos a encontrar seu estilo em uma indústria que os exclui e que assume que essa parcela não se importa com sua própria aparência. Uma das grandes necessidades da população idosa, por exemplo, é a modelagem específica, que não é vista nas roupas do mercado. Além disso, um relatório do Sebrae de 2016 apontou que 73% dos consumidores idosos classificam o atendimento no varejo como regular, algo claramente resultante da falta de marketing voltado para esse público, e também da falta de acessibilidade em empresas que não consideram essa parcela ao criar blogs e aplicativos voltados à moda.
+Ainda assim, segundo dados da multinacional de painéis de consumo Kantar, famílias de idosos apresentam índices positivos de consumo e gastam mais na compra de todas as categorias quando comparados com a média geral da população. Portanto, é visível que esse é um nicho que não pode mais ser ignorado no mercado. Assim, o projeto auxiliará a parcela sênior da sociedade a escolher e adquirir roupas condizentes com o estilo, tamanho, personalidade e evento desejado, com uma interface acessível e lúdica, já que, independentemente da idade, o importante é se sentir bem com a própria imagem. 
+
 
 > Descreva a importância ou a motivação para trabalhar com esta aplicação
 > que você escolheu. Indique as razões pelas quais você escolheu seus
