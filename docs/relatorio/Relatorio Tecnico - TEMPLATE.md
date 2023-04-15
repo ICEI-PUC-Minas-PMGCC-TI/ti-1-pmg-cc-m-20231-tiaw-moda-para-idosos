@@ -280,7 +280,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 ## User Flow
 
-......  INCLUA AQUI O DIAGRAMA COM O FLUXO DO USUÁRIO NA APLICAÇÃO ......
+![UserFlow](images/flowmap.jpg)
 
 > Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor
 > mapear todo fluxo de telas do site ou app. Essa técnica funciona
@@ -293,18 +293,42 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 > - [Top 25 User Flow Tools & Templates for Smooth](https://www.mockplus.com/blog/post/user-flow-tools)
 >
 > **Exemplo**:
-> 
-> ![Exemplo de UserFlow](images/userflow.jpg)
 
 
 ## Wireframes
 
 ......  INCLUA AQUI OS WIREFRAMES DAS TELAS DA APLICAÇÃO COM UM BREVE DESCRITIVO ......
+homepage do site com
 > ![Wireframe](images/homepage.png)
+> 
 > ![Wireframe](images/teste-qual-evento.png)
+> 
 > ![Wireframe](images/teste-filtros.png)
+> 
 > ![Wireframe](images/teste-resultado.png)
-
+> 
+> ![Wireframe](images/peca.png)
+> 
+> ![Wireframe](images/peca-curtida.png)
+> 
+> ![Wireframe](images/pag-busca.png)
+> 
+> ![Wireframe](images/pastas-curtidas.png)
+>
+> ![Wireframe](images/fav1.png)
+> 
+> ![Wireframe](images/minhas-conta.png)
+> 
+> ![Wireframe](images/login.png)
+> 
+> ![Wireframe](images/sign-up.png)
+> 
+> ![Wireframe](images/ajuda.png)
+> 
+> ![Wireframe](images/cor.png)
+> 
+> ![Wireframe](images/teste-de-personalidade.png)
+> 
 > Wireframes são protótipos das telas da aplicação usados em design de interface para sugerir a
 > estrutura de um site web e seu relacionamentos entre suas
 > páginas. Um wireframe web é uma ilustração semelhante ao
