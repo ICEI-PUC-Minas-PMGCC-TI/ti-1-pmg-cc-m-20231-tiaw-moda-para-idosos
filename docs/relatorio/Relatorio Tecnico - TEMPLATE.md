@@ -497,7 +497,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 # Referências
 
-(https://www.sebrae.com.br/sites/PortalSebrae/artigos/mercado-da-moda-para-a-terceira-idade-oportunidade-para-empreender,4408a81234761810VgnVCM100000d701210aRCRD)
+https://www.sebrae.com.br/sites/PortalSebrae/artigos/mercado-da-moda-para-a-terceira-idade-oportunidade-para-empreender,4408a81234761810VgnVCM100000d701210aRCRD
 
 https://elle.com.br/moda/por-que-as-novas-geracoes-estao-obcecadas-com-a-moda-da-terceira-idade
 
