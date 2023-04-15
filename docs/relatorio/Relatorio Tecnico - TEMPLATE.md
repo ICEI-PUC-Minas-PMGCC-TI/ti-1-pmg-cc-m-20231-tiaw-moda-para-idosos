@@ -1,11 +1,11 @@
 # Informações do Projeto
 `TÍTULO DO PROJETO`  
 
-......  Old Fashioned ......
+Old Fashioned
 
 `CURSO` 
 
-......  Ciência da Computação ......
+Ciência da Computação
 
 ## Participantes
 
@@ -497,7 +497,15 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 # Referências
 
-......  COLOQUE AQUI O SEU TEXTO ......
+(https://www.sebrae.com.br/sites/PortalSebrae/artigos/mercado-da-moda-para-a-terceira-idade-oportunidade-para-empreender,4408a81234761810VgnVCM100000d701210aRCRD)
+
+https://elle.com.br/moda/por-que-as-novas-geracoes-estao-obcecadas-com-a-moda-da-terceira-idade
+
+https://jornalismorio.espm.br/destaque/o-setor-da-moda-e-a-exclusao-da-terceira-idade/
+
+https://www.portaldoenvelhecimento.com.br/moda-especifica-para-idosos-quase-nao-existe/
+
+https://acvida.com.br/familias/moda-sem-idade/
 
 > Inclua todas as referências (livros, artigos, sites, etc) utilizados
 > no desenvolvimento do trabalho.
