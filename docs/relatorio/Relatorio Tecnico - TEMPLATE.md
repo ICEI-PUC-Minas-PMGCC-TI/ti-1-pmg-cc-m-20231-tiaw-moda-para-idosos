@@ -74,7 +74,6 @@ A moda é um dos setores de maior movimentação de capital no mundo, mas quase 
 ## Objetivos
 
 Objetivo geral: <br>
-<br>
 Visto o problema da inexistência de uma moda orientada para os idosos, o projeto Old Fashioned visa desenvolver um software que auxilia pessoas da terceira idade a escolher e adquirir roupas condizentes com o estilo, personalidade e evento desejado, por meio de um layout que mostra produtos linkados a lojas de acordo com os filtros selecionados (orçamento, coloração pessoal ou cor do próprio produto, personalidade e evento) para fazê-las se sentirem bem com o próprio estilo.
 
 Objetivos específicos: 
@@ -117,6 +116,7 @@ Ainda assim, segundo dados da multinacional de painéis de consumo Kantar, famí
 ## Público-Alvo
 
 Geral: <br>
+
 Homens e mulheres acima de 60 anos, casados, com filhos e netos e que são aposentados. Moradores tanto da capital quanto do interior, que desejam encontrar uma forma mais fácil de achar ideias de roupas para vestir e comprar de acordo com a moda atual e que, ao mesmo tempo, sejam adequadas para o tamanho e o estilo deles. 
 
 Específico por variáveis:
