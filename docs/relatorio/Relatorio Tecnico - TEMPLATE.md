@@ -282,8 +282,11 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 |ID| Restrição                                             |
 |--|-------------------------------------------------------|
-|01| O projeto deverá ser entregue até o final do semestre |
-|02| Não pode ser desenvolvido um módulo de backend        |
+|01| A sprint deverá ser entregue até o final do dia 16/04.|
+|02| Não pode ser desenvolvido um módulo de backend. |
+|03| O projeto deve utilizar somente HTML,CSS e JS.  |
+|04| A evolução do projeto deve ser acompanhada por várias reuniões . |
+|05| O projeto deverá ter a participação de todos os membros envolvidos.  |
 
 
 > Enumere as restrições à sua solução. Lembre-se de que as restrições
