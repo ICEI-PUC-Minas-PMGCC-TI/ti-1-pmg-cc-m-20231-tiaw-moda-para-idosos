@@ -262,6 +262,8 @@ A Interface do Projeto Old Fashioned foi pensada para apresentar um layout que, 
  ![Wireframe](images/teste-de-personalidade.png)
 
 
+ - Link para o protótipo interativo do site:
+ [Prototipo Interativo](https://marvelapp.com/prototype/7742bb2)
 
 
 # Metodologia
