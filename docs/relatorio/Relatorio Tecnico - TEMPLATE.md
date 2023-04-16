@@ -402,7 +402,17 @@ A Interface do Projeto Old Fashioned foi pensada para apresentar um layout que, 
 
 # Metodologia
 
-......  COLOQUE AQUI O SEU TEXTO ......
+A metodologia usada no projeto Old Fashioned, usufruiu de diversas ferramentas de trabalho para o melhor planejamento e funcionamento do site.
+Tais quais:
+
+Github - Para o repositório do projeto, incluindo a documentação e controle de versão.
+Trello - Utilizado para a organização e designação de tarefas de cada componente do grupo e o quadro kanban.
+Miro - O Miro foi utilizado para produzir o processo de Design Thinking, feito em conjunto por meio de reuniões de discussão e análise das entrevistas e pesquisas realizadas.
+WireframeCC - Tal aplicação foi utilizada para a construção do layout dos wireframes feitos para o projeto.
+MarvelApp - Foi utilizado para a construção do protótipo interativo, usando a base criada no WireframeCC e também para a realização do userflow.
+Google Docs - Utilizado para a aglutinação de ideias retiradas de pesquisas e entrevistas em um só documento.
+Discord - O Discord foi a plataforma utilizada para a realização das reuniões para produção e discussão do projeto.
+PowerPoint - Para a criação dos slides de apresentação do projeto.
 
 > Nesta parte do documento, você deve apresentar a metodologia 
 > adotada pelo grupo, descrevendo o processo de trabalho baseado nas metodologias ágeis, 
