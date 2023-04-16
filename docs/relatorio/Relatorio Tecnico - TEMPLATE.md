@@ -158,6 +158,20 @@ Para isso, as ferramentas utilizadas para esta construção foram o site Miro, a
 
 As personas do projeto Old Fashioned são idosos que são amigos desde a infância quando moravam na mesma cidade. Mesmo com muitas semelhanças, como a dificuldade de encontrar roupas que os agradem e estejam de acordo com a moda atual e pensamentos parecidos, cada um possui personalidades bastante distintas uma da outra, e sentem a necessidade de encontrar sua própria imagem distinta por meio do estilo. Assim, Esmeralda, Antônio e Viviane serão muito bem atendidos pelo site Old Fashioned, o qual agrupa os clientes e as lojas de roupas sem afiliações com o site (para ser uma busca imparcial monetariamente).
 
+>Antônio
+![Persona](images/persona1.png)
+![Empatia](images/empatia1.png)
+![Valor](images/valor1.png)
+
+>Esmeralda
+![Persona](images/persona2.png)
+![Empatia](images/empatia2.png)
+![Valor](images/valor2.png)
+
+>Viviane
+![Persona](images/persona3.png)
+![Empatia](images/empatia3.png)
+![Valor](images/valor3.png)
 
 > Relacione as personas identificadas no seu projeto, os respectivos mapas de empatia e 
 > mapas da proposta de valor. Lembre-se que você deve ser enumerar e descrever precisamente 
