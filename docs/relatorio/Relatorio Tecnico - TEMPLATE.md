@@ -147,7 +147,8 @@ Específico por variáveis:
  
 # Especificações do Projeto
 
-......  COLOQUE AQUI O SEU TEXTO ......
+A seguir encontram-se as personas, empatias e propostas de valor, além de fluxos e histórias de usuários e como o site será apresentado a ele. Em um todo, essa seção é focada na idealização do usuário e do site voltado para tal cliente. 
+Para isso, as ferramentas utilizadas para esta construção foram o site Miro, as entrevistas para a criação das personas e do design inteligente, o site Thispersondoesnotexist para a idealização da aparência dos personas, a criação de Google Docs compartilhados para a aglutinação de ideias em um só lugar, o site Trello para a organização dessas tarefas no geral e, por fim, diversas pesquisas sobre o assunto da moda para idosos com a finalidade de compreender melhor as dores e os remédios para a realidade do nosso usuário e a finalmente criar suas histórias e mapas de empatia e valor.
 
 > Apresente uma visão geral do que será abordado nesta parte do
 > documento, enumerando as técnicas e/ou ferramentas utilizadas para
@@ -155,7 +156,7 @@ Específico por variáveis:
 
 ## Personas, Empatia e Proposta de Valor
 
-......  COLOQUE AQUI O SEU TEXTO ......
+As personas do projeto Old Fashioned são idosos que são amigos desde a infância quando moravam na mesma cidade. Mesmo com muitas semelhanças, como a dificuldade de encontrar roupas que os agradem e estejam de acordo com a moda atual e pensamentos parecidos, cada um possui personalidades bastante distintas uma da outra, e sentem a necessidade de encontrar sua própria imagem distinta por meio do estilo. Assim, Esmeralda, Antônio e Viviane serão muito bem atendidos pelo site Old Fashioned, o qual agrupa os clientes e as lojas de roupas sem afiliações com o site (para ser uma busca imparcial monetariamente).
 
 
 > Relacione as personas identificadas no seu projeto, os respectivos mapas de empatia e 
