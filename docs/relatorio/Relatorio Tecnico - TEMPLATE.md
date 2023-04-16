@@ -308,7 +308,7 @@ Tais quais: <br>
 
 ## Controle de Versão
 
-O Controle de Versão pelo Git foi criado.
+O Controle de Versão foi criado pelo Git.
 
 > Discuta como a configuração do projeto foi feita na ferramenta de
 > versionamento escolhida. Exponha como a gerência de tags, merges,
