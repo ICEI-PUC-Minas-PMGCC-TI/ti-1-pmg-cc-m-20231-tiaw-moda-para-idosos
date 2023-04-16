@@ -158,17 +158,17 @@ Para isso, as ferramentas utilizadas para esta construção foram o site Miro, a
 
 As personas do projeto Old Fashioned são idosos que são amigos desde a infância quando moravam na mesma cidade. Mesmo com muitas semelhanças, como a dificuldade de encontrar roupas que os agradem e estejam de acordo com a moda atual e pensamentos parecidos, cada um possui personalidades bastante distintas uma da outra, e sentem a necessidade de encontrar sua própria imagem distinta por meio do estilo. Assim, Esmeralda, Antônio e Viviane serão muito bem atendidos pelo site Old Fashioned, o qual agrupa os clientes e as lojas de roupas sem afiliações com o site (para ser uma busca imparcial monetariamente).
 
->Antônio
+> - Antônio <br>
 ![Persona](images/persona1.png)
 ![Empatia](images/empatia1.png)
 ![Valor](images/valor1.png)
 
->Esmeralda
+> - Esmeralda <br>
 ![Persona](images/persona2.png)
 ![Empatia](images/empatia2.png)
 ![Valor](images/valor2.png)
 
->Viviane
+> - Viviane <br>
 ![Persona](images/persona3.png)
 ![Empatia](images/empatia3.png)
 ![Valor](images/valor3.png)
@@ -312,63 +312,63 @@ A Interface do Projeto Old Fashioned foi pensada para apresentar um layout que, 
 
 ## Wireframes
  
--Homepage do site com botões para as diversas opções de testes, login e signup, ajuda e suporte, os favoritos salvos e uma página de informações sobre teoria das cores:
+ - Homepage do site com botões para as diversas opções de testes, login e signup, ajuda e suporte, os favoritos salvos e uma página de informações sobre teoria das cores:
  ![Wireframe](images/homepage.png)
 
 
--Inicio do teste para a apresentação das roupas com um chat que simula uma conversação:
+ - Inicio do teste para a apresentação das roupas com um chat que simula uma conversação:
  ![Wireframe](images/teste-qual-evento.png)
 
 
--Página em que o usuário seleciona os filtros para deixar o teste de pesquisa mais especifico, ainda dentro da conversação:
+ - Página em que o usuário seleciona os filtros para deixar o teste de pesquisa mais específico, ainda dentro da conversação:
  ![Wireframe](images/teste-filtros.png)
 
 
--Página de resultado da pesquisa, em que o mascote, na conversação, responde o usuário com as melhores escolhas:
+ - Página de resultado da pesquisa, em que o mascote, na conversação, responde o usuário com as melhores escolhas:
  ![Wireframe](images/teste-resultado.png)
 
 
--Layout da apresentação de uma peça de roupa, com sua descrição (tamanho, textura, materiais), aspectos que fazem essa roupa ser compatível com o usuário e a opção de curti-la:
+ - Layout da apresentação de uma peça de roupa, com sua descrição (tamanho, textura, materiais), aspectos que fazem essa roupa ser compatível com o usuário e a opção de curti-la:
  ![Wireframe](images/peca.png)
 
 
--Layout da apresentação de uma peça de roupa como o outro, mas com a especificação de que ela já está curtida pelo usuário:
+ - Layout da apresentação de uma peça de roupa como o outro, mas com a especificação de que ela já está curtida pelo usuário:
  ![Wireframe](images/peca-curtida.png)
 
 
--Página da resposta de uma busca rápida feita pelo usuário com as opções de vestimentas:
+ - Página da resposta de uma busca rápida feita pelo usuário com as opções de vestimentas:
  ![Wireframe](images/pag-busca.png)
 
 
--Página com as pastas de peças de roupas salvas que o usuário já criou de acordo com seu interesse:
+ - Página com as pastas de peças de roupas salvas que o usuário já criou de acordo com seu interesse:
  ![Wireframe](images/pastas-curtidas.png)
 
 
--Página com as peças de roupas salvas dentro de uma pasta selecionada:
+ - Página com as peças de roupas salvas dentro de uma pasta selecionada:
  ![Wireframe](images/fav1.png)
 
 
--Layout da página de como a conta do usuário será apresentada:
+ - Layout da página de como a conta do usuário será apresentada:
  ![Wireframe](images/minha-conta.png)
 
 
--Página da inserção de dados pelo usuário para a entrada em uma conta já existente no site:
+ - Página da inserção de dados pelo usuário para a entrada em uma conta já existente no site:
  ![Wireframe](images/login.png)
 
 
--Página da inserção de dados pelo usuário para a criação de uma conta no site, com informações necessárias na hora do teste-busca de roupas (gênero e idade):
+ - Página da inserção de dados pelo usuário para a criação de uma conta no site, com informações necessárias na hora do teste-busca de roupas (gênero e idade):
  ![Wireframe](images/sign-up.png)
 
 
--Página com elementos de ajuda, acessibilidade, informações e uma caixa para mensagens ao sistema de suporte caso necessário:
+ - Página com elementos de ajuda, acessibilidade, informações e uma caixa para mensagens ao sistema de suporte caso necessário:
  ![Wireframe](images/ajuda.png)
 
 
--Wireframe da página de informações sobre a teoria das cores na moda, com as especificações do que cada uma representa e pode passar aos olhos alheios para auxiliar o usuário na decisão da cor de uma roupa:
+ - Wireframe da página de informações sobre a teoria das cores na moda, com as especificações do que cada uma representa e pode passar aos olhos alheios para auxiliar o usuário na decisão da cor de uma roupa:
  ![Wireframe](images/cor.png)
 
 
--Wireframe da página do teste de personalidade com o link para um teste externo e o reconhecimento desse resultado para especificar e deixar os testes-busca mais eficazes para o usuário:
+ - Wireframe da página do teste de personalidade com o link para um teste externo e o reconhecimento desse resultado para especificar e deixar os testes-busca mais eficazes para o usuário:
  ![Wireframe](images/teste-de-personalidade.png)
 
 > 
