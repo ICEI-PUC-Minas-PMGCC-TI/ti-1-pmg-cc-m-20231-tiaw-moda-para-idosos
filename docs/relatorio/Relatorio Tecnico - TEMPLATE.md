@@ -56,6 +56,7 @@ Os membros do grupo são:
 A moda é um dos setores de maior movimentação de capital no mundo, mas quase inteiramente focada no público jovem, com uma grande exclusão da terceira idade nesse meio. Segundo o SPC Brasil (Serviço de Proteção ao Cliente), das 36 milhões de pessoas acima de 60 anos na população brasileira, 34% sente falta dos produtos de moda quando vão às compras. Dessa forma, existe uma relação conflituosa entre os idosos e a atualização nas tendências atuais sobre moda, na qual eles não conseguem procurar ou encontrar roupas condizentes com seu estilo único, personalidade e orçamento, e acabam por se contentar com roupas determinadas padrões da terceira idade e logo têm a autoestima diminuída por não se sentirem representados pelo próprio estilo.
 
 
+
 ## Objetivos
 
 Objetivo geral: <br>
@@ -70,11 +71,13 @@ Objetivos específicos:
  - Deixar a proposta final inovadora para ajudar eficientemente o público-alvo.
 
 
+
 ## Justificativa
 
 A criação do Old Fashioned foi influenciada pela percepção da dificuldade que muitos de nossos avós têm com a moda, seja ao procurar roupas que gostem, seja por pensar em peças que sejam adequadas a eles em determinados eventos. Ao analisarmos o dia a dia e as pesquisas sobre nossa realidade, vimos a importância da criação de um projeto que ajude os idosos a encontrar seu estilo em uma indústria que os exclui e que assume que essa parcela não se importa com sua própria aparência. Uma das grandes necessidades da população idosa, por exemplo, é a modelagem específica, que não é vista nas roupas do mercado. Além disso, um relatório do Sebrae de 2016 apontou que 73% dos consumidores idosos classificam o atendimento no varejo como regular, algo claramente resultante da falta de marketing voltado para esse público, e também da falta de acessibilidade em empresas que não consideram essa parcela ao criar blogs e aplicativos voltados à moda.
 
 Ainda assim, segundo dados da multinacional de painéis de consumo Kantar, famílias de idosos apresentam índices positivos de consumo e gastam mais na compra de todas as categorias quando comparados com a média geral da população. Portanto, é visível que esse é um nicho que não pode mais ser ignorado no mercado. Assim, o projeto auxiliará a parcela sênior da sociedade a escolher e adquirir roupas condizentes com o estilo, tamanho, personalidade e evento desejado, com uma interface acessível e lúdica, já que, independentemente da idade, o importante é se sentir bem com a própria imagem. 
+
 
 
 
