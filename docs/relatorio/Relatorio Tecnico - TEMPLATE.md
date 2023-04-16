@@ -279,6 +279,7 @@ Tais quais: <br>
  - Google Docs - Utilizado para a aglutinação de ideias retiradas de pesquisas e entrevistas em um só documento. <br>
  - Discord - O Discord foi a plataforma utilizada para a realização das reuniões para produção e discussão do projeto. <br>
  - PowerPoint - Para a criação dos slides de apresentação do projeto.
+ - SlidesGo - Para a seleção de um template adequado para o powerpoint.
 
 
 
