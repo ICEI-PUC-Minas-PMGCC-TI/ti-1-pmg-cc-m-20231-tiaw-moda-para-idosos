@@ -300,7 +300,7 @@ Tais quais: <br>
 |-----------|-------------------------|---------------|
 |Processo de Design Thinkgin  | Miro |  https://miro.com/app/board/uXjVMU7S6fM=/ | 
 |Repositório de código | GitHub | https://github.com/ICEI-PUC-Minas-PMGCC-TI/ti-1-pmg-cc-m-20231-tiaw-moda-para-idosos | 
-|Hospedagem do site | Heroku |  https://XXXXXXX.herokuapp.com | 
+|Hospedagem do site | Heroku |  https://XXXXXXX.herokuapp.com (criamos uma conta no heroku) | 
 |Protótipo Interativo | MavelApp | https://marvelapp.com/prototype/7742bb2 | 
 
 
@@ -308,7 +308,7 @@ Tais quais: <br>
 
 ## Controle de Versão
 
-......  COLOQUE AQUI O SEU TEXTO ......
+O Controle de Versão pelo Git foi criado.
 
 > Discuta como a configuração do projeto foi feita na ferramenta de
 > versionamento escolhida. Exponha como a gerência de tags, merges,
