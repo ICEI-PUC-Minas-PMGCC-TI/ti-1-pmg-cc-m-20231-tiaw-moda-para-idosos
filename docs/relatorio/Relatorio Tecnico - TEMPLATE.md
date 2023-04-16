@@ -268,7 +268,7 @@ A Interface do Projeto Old Fashioned foi pensada para apresentar um layout que, 
 
 # Metodologia
 
-A metodologia usada no projeto Old Fashioned, usufruiu de diversas ferramentas de trabalho para o melhor planejamento e funcionamento do site.<br>
+A metodologia usada no projeto Old Fashioned é a Scrum, em que todos são participantes do time de desenvolvimento e o papel de Scrum Master foi designado a Sophia Carrazza. Em cada semana são feitas reuniões para o debate e realização do projeto, o qual usufruiu de diversas ferramentas de trabalho para o melhor planejamento e funcionamento do site.<br>
 Tais quais: <br>
 
  - Github - Para o repositório do projeto, incluindo a documentação e controle de versão. <br>
