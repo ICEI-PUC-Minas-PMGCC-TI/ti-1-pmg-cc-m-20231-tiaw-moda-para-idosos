@@ -9,10 +9,10 @@ Ciência da Computação
 
 ## Participantes
 
-> Os membros do grupo são: 
-> - Sophia Carrazza Ventorim de Sousa
-> - Brenda Cristina Martins Araújo
-> - Breno Pires Santos
+Os membros do grupo são: 
+ - Sophia Carrazza Ventorim de Sousa
+ - Brenda Cristina Martins Araújo
+ - Breno Pires Santos
 
 # Estrutura do Documento
 
