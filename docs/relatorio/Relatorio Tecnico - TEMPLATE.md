@@ -147,8 +147,8 @@ Específico por variáveis:
  
 # Especificações do Projeto
 
-A seguir encontram-se as personas, empatias e propostas de valor, além de fluxos e histórias de usuários e como o site será apresentado a ele. Em um todo, essa seção é focada na idealização do usuário e do site voltado para tal cliente. 
-Para isso, as ferramentas utilizadas para esta construção foram o site Miro, as entrevistas para a criação das personas e do design inteligente, o site Thispersondoesnotexist para a idealização da aparência dos personas, a criação de Google Docs compartilhados para a aglutinação de ideias em um só lugar, o site Trello para a organização dessas tarefas no geral e, por fim, diversas pesquisas sobre o assunto da moda para idosos com a finalidade de compreender melhor as dores e os remédios para a realidade do nosso usuário e a finalmente criar suas histórias e mapas de empatia e valor.
+A seguir encontram-se as personas, empatias e propostas de valor, além de fluxos e histórias de usuários. Em um todo, essa seção é focada na idealização do usuário. 
+Para isso, as ferramentas utilizadas para esta construção foram o site Miro, as entrevistas para a criação das personas e do design inteligente, o site Thispersondoesnotexist para a idealização da aparência dos personas, a criação de Google Docs compartilhados para a aglutinação de ideias em um só documento, o site Trello para a organização dessas tarefas no geral e, por fim, diversas pesquisas sobre o assunto da moda para idosos com a finalidade de compreender melhor as dores e os remédios para a realidade do nosso usuário e finalmente criar suas histórias e mapas de empatia e de valor.
 
 > Apresente uma visão geral do que será abordado nesta parte do
 > documento, enumerando as técnicas e/ou ferramentas utilizadas para
