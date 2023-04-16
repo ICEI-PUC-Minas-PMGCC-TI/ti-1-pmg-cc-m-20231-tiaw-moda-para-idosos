@@ -233,16 +233,26 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+|RF-001| Permitir que o usuário faça uma pesquisa. | ALTA | 
+|RF-002| Opção do usuário criar uma conta. | MÉDIA |
+|RF-003| Permitir a criação de listas dos produtos favoritos. | BAIXA |
+|RF-004| Opção de realização de testes para especificidade da busca. | MÉDIA |
+|RF-005| Possibilidade de "dialogar" com o mascote. | BAIXA |
+|RF-005| Espaço para avaliação e descrição dos produtos| MÉDIA |
 
 
 ### Requisitos não Funcionais
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+|RNF-001| Site responsivo e com design intuitivo e simples. | ALTA | 
+|RNF-002| Layout acessível. | ALTA | 
+|RNF-003| Banco de dados para armazenar as credenciais dos usuários. | ALTA | 
+|RNF-004| Atualizações diárias de produtos novos. | ALTA | 
+|RNF-005| Interfaces com características casuais e "íntimas". | MEDIA | 
+|RNF-006| Algoritmo para identificar os gostos do cliente e recomendar itens de seu interesse. | ALTA | 
+|RNF-007| Páginas informativas sobre o assunto da moda. | BAIXA | 
+|RNF-008| Páginas de ajuda e suporte disponíveis em 24 horas. | MEDIA | 
 
 > Com base nas Histórias de Usuário, enumere os requisitos da sua
 > solução. Classifique esses requisitos em dois grupos:
