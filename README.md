@@ -11,7 +11,7 @@ A moda é um dos setores de maior movimentação de capital no mundo, mas quase 
 ## Professores responsáveis
 
 * Ilo Amy Saldanha Rivero
-* Leonardo 
+* Leonardo Vilela
 
 ## Instruções de utilização
 
