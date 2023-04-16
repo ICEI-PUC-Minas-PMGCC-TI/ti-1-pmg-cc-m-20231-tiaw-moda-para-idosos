@@ -259,7 +259,7 @@ A Interface do Projeto Old Fashioned foi pensada para apresentar um layout que, 
 
 
  - Wireframe da página do teste de personalidade com o link para um teste externo e o reconhecimento desse resultado para especificar e deixar os testes-busca mais eficazes para o usuário:
- ![Wireframe](images/teste-de-personalidade.png)
+ ![Wireframe](images/teste-de-personalidade2.png)
 
 
  - Link para o protótipo interativo do site:
