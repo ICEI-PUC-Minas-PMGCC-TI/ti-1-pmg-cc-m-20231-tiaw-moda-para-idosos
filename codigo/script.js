@@ -31,7 +31,7 @@ const search = () => {
             price: 150.00,
             off: 179.99,
             description:'Tênis bege e branco, justo e confortável. Excelente para sair de dia e em encontros casuais.',
-            image1: 'busca_de_produto/images/image-product-1-thumbnail.jpg',
+            image1: 'images/image-product-1.jpeg',
             thumb1:'busca_de_produto/images/image-product-1.jpg',
             thumb2:'busca_de_produto/images/image-product-2.jpg',
             thumb3:'busca_de_produto/images/image-product-3.jpg',
@@ -175,7 +175,7 @@ ITEMS = [
       price: 150.00,
       off: 179.99,
       description:'Tênis bege e branco, justo e confortável. Excelente para sair de dia e em encontros casuais.',
-      image1: 'busca_de_produto/images/image-product-1.jpg',
+      image1: 'busca_de_produto/images/image-product-1.jpeg',
       thumb1:'busca_de_produto/images/image-product-1.jpg',
       thumb2:'busca_de_produto/images/image-product-2.jpg',
       thumb3:'busca_de_produto/images/image-product-3.jpg',
@@ -251,7 +251,10 @@ ITEMS = [
       color: ['azul'],
       gender: 'feminino',
       qty: 1
-  }
+  },
+  
+  
+
 ];
 
 for (let i of ITEMS) {
