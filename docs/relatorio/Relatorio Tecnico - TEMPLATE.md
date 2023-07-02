@@ -350,15 +350,15 @@ A solução do site Old Fashioned foi o desenvolvimento de uma plataforma que pe
  - Powtoon: Plataforma para criação do vídeo. <br>
  - WireframeCC: Plataforma para desenvolvimento do Wireframe e do Userflow. <br>
 
-Os wireframes utilizados estão na seção ##Wireframes. Alguns foram retirados no redirecionamento do rumo do site e os demais foram seguidos ou modificados na prática ao longo do desenvolvimento.
+Os wireframes utilizados estão na seção ##Wireframes. Alguns foram retirados no redirecionamento do rumo do site e os demais foram seguidos ou modificados na prática ao longo do desenvolvimento. <br>
 
- - Diagrama de Interação
+ - Diagrama de Interação  <br>
 ![Diagrama de interacao](images/diagramadeinteracao.png)
 
- - Exemplo de um storyboard criado
+ - Exemplo de um storyboard criado  <br>
 ![Storyboard](images/storyboard.jpeg)
 
- - Userflow
+ - Userflow  <br>
  ![Userflow](images/userflow.png)
 
 ## Arquitetura da solução
