@@ -352,20 +352,14 @@ A solução do site Old Fashioned foi o desenvolvimento de uma plataforma que pe
 
 Os wireframes utilizados estão na seção ##Wireframes. Alguns foram retirados no redirecionamento do rumo do site e os demais foram seguidos ou modificados na prática ao longo do desenvolvimento.
 
+ - Diagrama de Interação
 ![Diagrama de interacao](images/diagramadeinteracao.png)
+
+ - Exemplo de um storyboard criado
 ![Storyboard](images/storyboard.jpeg)
-> Descreva aqui qual(is) tecnologias você vai usar para resolver o seu
-> problema, ou seja, implementar a sua solução. Liste todas as
-> tecnologias envolvidas, linguagens a serem utilizadas, serviços web,
-> frameworks, bibliotecas, IDEs de desenvolvimento, e ferramentas.
-> Apresente também uma figura explicando como as tecnologias estão
-> relacionadas ou como uma interação do usuário com o sistema vai ser
-> conduzida, por onde ela passa até retornar uma resposta ao usuário.
-> 
-> Inclua os diagramas de User Flow, esboços criados pelo grupo
-> (stoyboards), além dos protótipos de telas (wireframes). Descreva cada
-> item textualmente comentando e complementando o que está apresentado
-> nas imagens.
+
+ - Userflow
+ ![Userflow](images/userflow.png)
 
 ## Arquitetura da solução
 
