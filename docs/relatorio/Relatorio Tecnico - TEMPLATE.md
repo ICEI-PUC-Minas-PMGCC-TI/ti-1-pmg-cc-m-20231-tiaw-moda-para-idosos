@@ -352,6 +352,8 @@ A solução do site Old Fashioned foi o desenvolvimento de uma plataforma que pe
 
 Os wireframes utilizados estão na seção ##Wireframes. Alguns foram retirados no redirecionamento do rumo do site e os demais foram seguidos ou modificados na prática ao longo do desenvolvimento.
 
+![Diagrama de interacao](images/diagramadeinteracao.png)
+![Storyboard](images/storyboard.jpeg)
 > Descreva aqui qual(is) tecnologias você vai usar para resolver o seu
 > problema, ou seja, implementar a sua solução. Liste todas as
 > tecnologias envolvidas, linguagens a serem utilizadas, serviços web,
@@ -367,18 +369,14 @@ Os wireframes utilizados estão na seção ##Wireframes. Alguns foram retirados 
 
 ## Arquitetura da solução
 
-......  COLOQUE AQUI O SEU TEXTO E O DIAGRAMA DE ARQUITETURA .......
-
-> Inclua um diagrama da solução e descreva os módulos e as tecnologias
-> que fazem parte da solução. Discorra sobre o diagrama.
-> 
-> **Exemplo do diagrama de Arquitetura**:
-> 
-> ![Exemplo de Arquitetura](images/arquitetura-exemplo.png)
+ ![Arquitetura da solucao](images/arquiteturadasolucao.png)
+ 
+A arquitetura de solução do site consiste na hospedagem pelo replit, User Interface por HTML, CSS e JavaScript, e dados dos produtos em JSON salvos e apresentados pelo LocalStorage.
 
 
 # Avaliação da Aplicação
 
+Alguns cenários de testes utilizados na testagem da aplicação foram: <br>
  - Criação de uma conta no site com diversas opções de escritas possíveis.  <br>
  - Salvamento dos produtos nos favoritos e checagem se eles realmente se encontram na pasta. <br>
  - Criação de novas pastas e salvamento de um produto nela. <br>
@@ -387,9 +385,6 @@ Os wireframes utilizados estão na seção ##Wireframes. Alguns foram retirados 
  - Redirecionamento à página de aprendizagem sobre cores e retorno dela. <br>
  - Edição da conta do usuário para outras informações. <br>
 
-> Apresente os cenários de testes utilizados na realização dos testes da
-> sua aplicação. Escolha cenários de testes que demonstrem os requisitos
-> sendo satisfeitos.
 
 ## Plano de Testes
 
@@ -400,11 +395,6 @@ Alguns cenários de testes foram: <br>
  - Criação de novas pastas e salvamento de um produto nela. <br>
  - Pesquisa de produtos com palavras chave na homepage. <br>
  - Redirecionamento à conta do usuário ao clicar em sua foto no canto superior esquerdo do header. <br>
-
-> Enumere quais cenários de testes foram selecionados para teste. Neste
-> tópico o grupo deve detalhar quais funcionalidades avaliadas, o grupo
-> de usuários que foi escolhido para participar do teste e as
-> ferramentas utilizadas.
 
 
 ## Ferramentas de Testes (Opcional)
