@@ -333,7 +333,7 @@ Quanto à gerência de issues, o projeto adota a seguinte convenção para etiqu
 
 # Projeto da Solução
 
-A solução do site Old Fashioned foi o desenvolvimento de uma plataforma que permite o usuário criar uma conta e encontrar produtos pré-selecionados que condizem com o estilo e o conforto para os idosos, de forma simples e intuitiva, por meio dos filtros de eventos, gênero e cor e pela pesquisa por palavras-chave. Cada produto possui uma descrição, que auxilia na escolha, e também apresenta guias de medidas específicas, já que um grande problema da moda para idosos é encontrar roupas com caimentos corretos de acordo com cada fisionomia mudada pela idade. A partir dessas peças, o usuário pode salvar suas favoritas na pasta geral ou criar novas pastas, em que, com elas, pode se organizar melhor por estilo, por eventos e o que deseja separar. O user também pode aprender sobre como as cores influenciam em sua aparência na seção de cores do site. 
+A solução do site Old Fashioned foi o desenvolvimento de uma plataforma que permite o usuário criar uma conta e encontrar produtos pré-selecionados que condizem com o estilo e o conforto para os idosos, de forma simples e intuitiva, por meio dos filtros de eventos, gênero e cor e pela pesquisa por palavras-chave. Cada produto possui uma descrição, que auxilia na escolha, e também apresenta guias de medidas específicas, já que um grande problema da moda para idosos é encontrar roupas com caimentos corretos de acordo com cada fisionomia mudada pela idade. A partir dessas peças, o usuário pode salvar suas favoritas na pasta de favoritos que, com ela, pode-se organizar melhor por estilo, por eventos e o que deseja favoritar. O user também pode aprender sobre como as cores influenciam em sua aparência na seção de cores do site. 
 
 ## Tecnologias Utilizadas
 
@@ -379,7 +379,6 @@ A arquitetura de solução do site consiste na hospedagem pelo replit, User Inte
 Alguns cenários de testes utilizados na testagem da aplicação foram: <br>
  - Criação de uma conta no site com diversas opções de escritas possíveis.  <br>
  - Salvamento dos produtos nos favoritos e checagem se eles realmente se encontram na pasta. <br>
- - Criação de novas pastas e salvamento de um produto nela. <br>
  - Pesquisa de produtos com palavras chave na homepage. <br>
  - Redirecionamento à conta do usuário ao clicar em sua foto no canto superior esquerdo do header. <br>
  - Redirecionamento à página de aprendizagem sobre cores e retorno dela. <br>
@@ -392,7 +391,6 @@ Os planos de testes foram realizados com uma listagem inicial dos possíveis err
 Alguns cenários de testes foram: <br>
  - Criação de uma conta no site com diversas opções de escritas possíveis.  <br>
  - Salvamento dos produtos nos favoritos e checagem se eles realmente se encontram na pasta. <br>
- - Criação de novas pastas e salvamento de um produto nela. <br>
  - Pesquisa de produtos com palavras chave na homepage. <br>
  - Redirecionamento à conta do usuário ao clicar em sua foto no canto superior esquerdo do header. <br>
 
@@ -404,12 +402,7 @@ As ferramentas utilizadas para os testes foram as Ferramentas de Desenvolvimento
 
 ## Registros de Testes
 
-Alguns dos problemas encontrados foram o salvamento incorreto dos ids nos favoritos, em que nos cards eram salvos como inteiro e dentro do veja mais eram salvos como strings, mas isso foi consertado, o carrinho de produtos que possuia diversos erros e foi retirado por não representar o rumo que queríamos tomar com o site, além de erros ao salvar o usuário no localStorage que também foram corrigidos. Assim, a partir dos testes verificados no console da ferramenta do desenvolvimento do navegador e no próprio site, foi possivel melhorar grande parte das funcionalidades do projeto, enquanto outras ideias foram abandonadas para melhor andamento e conclusão dele.
-
-> Discorra sobre os resultados do teste. Ressaltando pontos fortes e
-> fracos identificados na solução. Comente como o grupo pretende atacar
-> esses pontos nas próximas iterações. Apresente as falhas detectadas e
-> as melhorias geradas a partir dos resultados obtidos nos testes.
+Alguns dos problemas encontrados foram o salvamento incorreto dos ids nos favoritos, em que nos cards eram salvos como inteiro e dentro do veja mais eram salvos como strings, mas isso foi consertado, o carrinho de produtos que possuia diversos erros e foi retirado por não representar o rumo que queríamos tomar com o site, além de erros ao salvar o usuário no localStorage que também foram corrigidos. Assim, a partir dos testes verificados no console da ferramenta do desenvolvimento do navegador e no próprio site, foi possivel melhorar grande parte das funcionalidades do projeto, enquanto outras ideias foram abandonadas para melhor andamento e conclusão dele. Em proximas iterações gostaríamos de adicionar a funcionalidade de adicionar novas pastas diferentes e funcionalidades backend.
 
 
 # Referências
