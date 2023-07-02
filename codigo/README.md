@@ -1,5 +1,2 @@
-# Código do Projeto
-
-Mantenha neste diretório todo o código fonte do projeto. 
-
-Se necessário, descreva neste arquivo aspectos relevantes da estrutura de diretórios criada para organização do código.
+# Nesse repositório contem uma homepage, uma pagina de registro,login e uma página de perfil.
+# Esse site é resultado de um trabalho interdisciplinar feito na PUC Minas.
