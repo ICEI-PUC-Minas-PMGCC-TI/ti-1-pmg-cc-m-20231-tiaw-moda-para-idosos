@@ -312,20 +312,17 @@ O Controle de Versão foi criado pelo Git.
 
 ![Wireframe](images/git.png)
 
-A configuração do projeto foi feita pelo git com a convenção para o nome de branchs citada abaixo.
-> A ferramenta de controle de versão adotada no projeto foi o
-> [Git](https://git-scm.com/), sendo que o [Github](https://github.com)
-> foi utilizado para hospedagem do repositório `upstream`.
-> 
-> O projeto segue a seguinte convenção para o nome de branchs:
+A configuração do projeto foi feita pelo git com a convenção para o nome de branchs citada abaixo.<br>
+A ferramenta de controle de versão adotada no projeto foi o [Git](https://git-scm.com/), sendo que o [Github](https://github.com)foi utilizado para hospedagem do repositório `upstream`.
+
+O projeto segue a seguinte convenção para o nome de branchs:
 > 
 > - `master`: versão estável já testada do software
 > - `unstable`: versão já testada do software, porém instável
 > - `testing`: versão em testes do software
 > - `dev`: versão de desenvolvimento do software
 > 
-> Quanto à gerência de issues, o projeto adota a seguinte convenção para
-> etiquetas:
+Quanto à gerência de issues, o projeto adota a seguinte convenção para etiquetas:
 > 
 > - `bugfix`: uma funcionalidade encontra-se com problemas
 > - `enhancement`: uma funcionalidade precisa ser melhorada
@@ -340,18 +337,18 @@ A solução do site Old Fashioned foi o desenvolvimento de uma plataforma que pe
 
 ## Tecnologias Utilizadas
 
-•	HTML: Usado como linguagem de marcação para a criação web.  <br>
-•	CSS: Foi utilizado para estilização e responsividade do website, com pacotes de fontes especiais do google e interface simples para melhor entendimento. <br>
-•	JavaScript: Essa linguagem de script foi utilizada para processamento e armazenamento dos dados de forma dinâmica para salvar produtos favoritos nas pastas e criar o fluxo do site. <br>
-•	Visual Studio Code: Usado como nosso principal editor de código (IDE) com diversas ferramentas que facilitaram o desenvolvimento, como Live Server e o Thunder Client. <br>
-•	Git: Sistema criado para controlar as versões durante o desenvolvimento do software. <br>
-•	GitHub: Utilizado para controle do repositório e de toda a documentação a respeito do projeto. <br>
-•	Ferramenta do desenvolvedor do navegador: Essa ferramenta foi muito utilizada para realizar os testes do site durante o desenvolvimento, para checar o html, console e network. <br>
-•	Miro: Plataforma usada para o processo de design thinking. <br>
-•	Trello: Plataforma que foi usada para o Kanban. <br>
-•	Canva: Plataforma usada para construção dos diagramas e de diversas imagens para o site. <br>
-•	Powtoon: Plataforma para criação do vídeo. <br>
-•	WireframeCC: Plataforma para desenvolvimento do Wireframe e do Userflow. <br>
+ - HTML: Usado como linguagem de marcação para a criação web.  <br>
+ - CSS: Foi utilizado para estilização e responsividade do website, com pacotes de fontes especiais do google e interface simples para melhor entendimento. <br>
+ - JavaScript: Essa linguagem de script foi utilizada para processamento e armazenamento dos dados de forma dinâmica para salvar produtos favoritos nas pastas e criar o fluxo do site. <br>
+ - Visual Studio Code: Usado como nosso principal editor de código (IDE) com diversas ferramentas que facilitaram o desenvolvimento, como Live Server e o Thunder Client. <br>
+ - Git: Sistema criado para controlar as versões durante o desenvolvimento do software. <br>
+ - GitHub: Utilizado para controle do repositório e de toda a documentação a respeito do projeto. <br>
+ - Ferramenta do desenvolvedor do navegador: Essa ferramenta foi muito utilizada para realizar os testes do site durante o desenvolvimento, para checar o html, console e network. <br>
+ - Miro: Plataforma usada para o processo de design thinking. <br>
+ - Trello: Plataforma que foi usada para o Kanban. <br>
+ - Canva: Plataforma usada para construção dos diagramas e de diversas imagens para o site. <br>
+ - Powtoon: Plataforma para criação do vídeo. <br>
+ - WireframeCC: Plataforma para desenvolvimento do Wireframe e do Userflow. <br>
 
 Os wireframes utilizados estão na seção ##Wireframes. Alguns foram retirados no redirecionamento do rumo do site e os demais foram seguidos ou modificados na prática ao longo do desenvolvimento.
 
@@ -382,13 +379,13 @@ Os wireframes utilizados estão na seção ##Wireframes. Alguns foram retirados 
 
 # Avaliação da Aplicação
 
-•	Criação de uma conta no site com diversas opções de escritas possíveis.  <br>
-•	Salvamento dos produtos nos favoritos e checagem se eles realmente se encontram na pasta. <br>
-•	Criação de novas pastas e salvamento de um produto nela. <br>
-•	Pesquisa de produtos com palavras chave na homepage. <br>
-•	Redirecionamento à conta do usuário ao clicar em sua foto no canto superior esquerdo do header. <br>
-•	Redirecionamento à página de aprendizagem sobre cores e retorno dela. <br>
-•	Edição da conta do usuário para outras informações. <br>
+ - Criação de uma conta no site com diversas opções de escritas possíveis.  <br>
+ - Salvamento dos produtos nos favoritos e checagem se eles realmente se encontram na pasta. <br>
+ - Criação de novas pastas e salvamento de um produto nela. <br>
+ - Pesquisa de produtos com palavras chave na homepage. <br>
+ - Redirecionamento à conta do usuário ao clicar em sua foto no canto superior esquerdo do header. <br>
+ - Redirecionamento à página de aprendizagem sobre cores e retorno dela. <br>
+ - Edição da conta do usuário para outras informações. <br>
 
 > Apresente os cenários de testes utilizados na realização dos testes da
 > sua aplicação. Escolha cenários de testes que demonstrem os requisitos
@@ -398,11 +395,11 @@ Os wireframes utilizados estão na seção ##Wireframes. Alguns foram retirados 
 
 Os planos de testes foram realizados com uma listagem inicial dos possíveis erros e uma posterior testagem de todas as funcionalidades até a correção de todos os problemas encontrados. Foi também pedido que pessoas fora do grupo de desenvolvimentos testassem o programa, para que a atividade fosse feita sem possíveis parcialidades. <br>
 Alguns cenários de testes foram: <br>
-•	Criação de uma conta no site com diversas opções de escritas possíveis.  <br>
-•	Salvamento dos produtos nos favoritos e checagem se eles realmente se encontram na pasta. <br>
-•	Criação de novas pastas e salvamento de um produto nela. <br>
-•	Pesquisa de produtos com palavras chave na homepage. <br>
-•	Redirecionamento à conta do usuário ao clicar em sua foto no canto superior esquerdo do header. <br>
+ - Criação de uma conta no site com diversas opções de escritas possíveis.  <br>
+ - Salvamento dos produtos nos favoritos e checagem se eles realmente se encontram na pasta. <br>
+ - Criação de novas pastas e salvamento de um produto nela. <br>
+ - Pesquisa de produtos com palavras chave na homepage. <br>
+ - Redirecionamento à conta do usuário ao clicar em sua foto no canto superior esquerdo do header. <br>
 
 > Enumere quais cenários de testes foram selecionados para teste. Neste
 > tópico o grupo deve detalhar quais funcionalidades avaliadas, o grupo
