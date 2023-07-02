@@ -312,10 +312,7 @@ O Controle de Versão foi criado pelo Git.
 
 ![Wireframe](images/git.png)
 
-> Discuta como a configuração do projeto foi feita na ferramenta de
-> versionamento escolhida. Exponha como a gerência de tags, merges,
-> commits e branchs é realizada. Discuta como a gerência de issues foi
-> realizada.
+A configuração do projeto foi feita pelo git com a convenção para o nome de branchs citada abaixo.
 > A ferramenta de controle de versão adotada no projeto foi o
 > [Git](https://git-scm.com/), sendo que o [Github](https://github.com)
 > foi utilizado para hospedagem do repositório `upstream`.
@@ -334,26 +331,29 @@ O Controle de Versão foi criado pelo Git.
 > - `enhancement`: uma funcionalidade precisa ser melhorada
 > - `feature`: uma nova funcionalidade precisa ser introduzida
 >
-> **Links Úteis**:
-> - [Tutorial GitHub](https://guides.github.com/activities/hello-world/)
-> - [Git e Github](https://www.youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)
-> - [5 Git Workflows & Branching Strategy to deliver better code](https://zepel.io/blog/5-git-workflows-to-improve-development/)
->
-> **Exemplo - GitHub Feature Branch Workflow**:
->
-> ![Exemplo de Wireframe](images/Github-Workflow.png)
 
 # **############## SPRINT 1 ACABA AQUI #############**
 
-
 # Projeto da Solução
 
-......  COLOQUE AQUI O SEU TEXTO ......
+A solução do site Old Fashioned foi o desenvolvimento de uma plataforma que permite o usuário criar uma conta e encontrar produtos pré-selecionados que condizem com o estilo e o conforto para os idosos, de forma simples e intuitiva, por meio dos filtros de eventos, gênero e cor e pela pesquisa por palavras-chave. Cada produto possui uma descrição, que auxilia na escolha, e também apresenta guias de medidas específicas, já que um grande problema da moda para idosos é encontrar roupas com caimentos corretos de acordo com cada fisionomia mudada pela idade. A partir dessas peças, o usuário pode salvar suas favoritas na pasta geral ou criar novas pastas, em que, com elas, pode se organizar melhor por estilo, por eventos e o que deseja separar. O user também pode aprender sobre como as cores influenciam em sua aparência na seção de cores do site. 
 
 ## Tecnologias Utilizadas
 
-......  COLOQUE AQUI O SEU TEXTO ......
+•	HTML: Usado como linguagem de marcação para a criação web;
+•	CSS: Foi utilizado para estilização e responsividade do website, com pacotes de fontes especiais do google e interface simples para melhor entendimento;
+•	JavaScript: Essa linguagem de script foi utilizada para processamento e armazenamento dos dados de forma dinâmica para salvar produtos favoritos nas pastas e criar o fluxo do site;
+•	Visual Studio Code: Usado como nosso principal editor de código (IDE) com diversas ferramentas que facilitaram o desenvolvimento, como Live Server e o Thunder Client;
+•	Git: Sistema criado para controlar as versões durante o desenvolvimento do software;
+•	GitHub: Utilizado para controle do repositório e de toda a documentação a respeito do projeto.
+•	Ferramenta do desenvolvedor do navegador: Essa ferramenta foi muito utilizada para realizar os testes do site durante o desenvolvimento, para checar o html, console e network.
+•	Miro: Plataforma usada para o processo de design thinking.
+•	Trello: Plataforma que foi usada para o Kanban.
+•	Canva: Plataforma usada para construção dos diagramas e de diversas imagens para o site.
+•	Powtoon: Plataforma para criação do vídeo.
+•	WireframeCC: Plataforma para desenvolvimento do Wireframe e do Userflow.
 
+Os wireframes utilizados estão na seção ##Wireframes. Alguns foram retirados no redirecionamento do rumo do site e os demais foram seguidos ou modificados na prática ao longo do desenvolvimento.
 > Descreva aqui qual(is) tecnologias você vai usar para resolver o seu
 > problema, ou seja, implementar a sua solução. Liste todas as
 > tecnologias envolvidas, linguagens a serem utilizadas, serviços web,
@@ -389,7 +389,13 @@ O Controle de Versão foi criado pelo Git.
 
 ## Plano de Testes
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Os planos de testes foram realizados com uma listagem inicial dos possíveis erros e uma posterior testagem de todas as funcionalidades até a correção de todos os problemas encontrados. Foi também pedido que pessoas fora do grupo de desenvolvimentos testassem o programa, para que a atividade fosse feita sem possíveis parcialidades.
+Alguns cenários de testes foram:
+•	Criação de uma conta no site com diversas opções de escritas possíveis.
+•	Salvamento dos produtos nos favoritos e checagem se eles realmente se encontram na pasta.
+•	Criação de novas pastas e salvamento de um produto nela.
+•	Pesquisa de produtos com palavras chave na homepage.
+•	Redirecionamento à conta do usuário ao clicar em sua foto no canto superior esquerdo do header.
 
 > Enumere quais cenários de testes foram selecionados para teste. Neste
 > tópico o grupo deve detalhar quais funcionalidades avaliadas, o grupo
@@ -413,7 +419,7 @@ O Controle de Versão foi criado pelo Git.
 
 ## Registros de Testes
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Alguns dos problemas encontrados foram o salvamento incorreto dos ids nos favoritos, em que nos cards eram salvos como inteiro e dentro do veja mais eram salvos como strings, mas isso foi consertado, o carrinho de produtos que possuia diversos erros e foi retirado por não representar o rumo que queríamos tomar com o site, além de erros ao salvar o usuário no localStorage que também foram corrigidos. Assim, a partir dos testes verificados no console da ferramenta do desenvolvedor do navegador e no próprio site, foi possivel melhorar grande parte das funcionalidades do projeto, enquanto outras ideias foram abandonadas para melhor andamento e conclusão dele.
 
 > Discorra sobre os resultados do teste. Ressaltando pontos fortes e
 > fracos identificados na solução. Comente como o grupo pretende atacar
