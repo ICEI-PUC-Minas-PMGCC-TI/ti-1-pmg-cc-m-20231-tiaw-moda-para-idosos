@@ -382,7 +382,13 @@ Os wireframes utilizados estão na seção ##Wireframes. Alguns foram retirados 
 
 # Avaliação da Aplicação
 
-......  COLOQUE AQUI O SEU TEXTO ......
+•	Criação de uma conta no site com diversas opções de escritas possíveis.  <br>
+•	Salvamento dos produtos nos favoritos e checagem se eles realmente se encontram na pasta. <br>
+•	Criação de novas pastas e salvamento de um produto nela. <br>
+•	Pesquisa de produtos com palavras chave na homepage. <br>
+•	Redirecionamento à conta do usuário ao clicar em sua foto no canto superior esquerdo do header. <br>
+•	Redirecionamento à página de aprendizagem sobre cores e retorno dela. <br>
+•	Edição da conta do usuário para outras informações. <br>
 
 > Apresente os cenários de testes utilizados na realização dos testes da
 > sua aplicação. Escolha cenários de testes que demonstrem os requisitos
@@ -390,8 +396,8 @@ Os wireframes utilizados estão na seção ##Wireframes. Alguns foram retirados 
 
 ## Plano de Testes
 
-Os planos de testes foram realizados com uma listagem inicial dos possíveis erros e uma posterior testagem de todas as funcionalidades até a correção de todos os problemas encontrados. Foi também pedido que pessoas fora do grupo de desenvolvimentos testassem o programa, para que a atividade fosse feita sem possíveis parcialidades.
-Alguns cenários de testes foram:
+Os planos de testes foram realizados com uma listagem inicial dos possíveis erros e uma posterior testagem de todas as funcionalidades até a correção de todos os problemas encontrados. Foi também pedido que pessoas fora do grupo de desenvolvimentos testassem o programa, para que a atividade fosse feita sem possíveis parcialidades. <br>
+Alguns cenários de testes foram: <br>
 •	Criação de uma conta no site com diversas opções de escritas possíveis.  <br>
 •	Salvamento dos produtos nos favoritos e checagem se eles realmente se encontram na pasta. <br>
 •	Criação de novas pastas e salvamento de um produto nela. <br>
